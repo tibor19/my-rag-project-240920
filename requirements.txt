@@ -7,7 +7,7 @@ promptflow-tools==1.4.0
 promptflow-evals
 azure-identity==1.16.1
 pandas
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 jsonlines
 promptflow.evals
 openpyxl
